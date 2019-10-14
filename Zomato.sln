@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zomato.Web", "Zomato\Zomato.Web.csproj", "{5ED1D6E0-4B22-4476-974E-E304AD15B366}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zomato.DomainModel", "Zomato.DomainModel\Zomato.DomainModel.csproj", "{F5A53D8F-519B-4169-8CF3-3F71B4CD1AFB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zomato.Repository", "Zomato.Repository\Zomato.Repository.csproj", "{352AB1D2-BED3-42C7-A0B2-2437EB7BE9C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zomato.Core", "Zomato.Core\Zomato.Core.csproj", "{C21EB1F3-6254-4B5C-9455-FCB45269A280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ED1D6E0-4B22-4476-974E-E304AD15B366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED1D6E0-4B22-4476-974E-E304AD15B366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED1D6E0-4B22-4476-974E-E304AD15B366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED1D6E0-4B22-4476-974E-E304AD15B366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A53D8F-519B-4169-8CF3-3F71B4CD1AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A53D8F-519B-4169-8CF3-3F71B4CD1AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A53D8F-519B-4169-8CF3-3F71B4CD1AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A53D8F-519B-4169-8CF3-3F71B4CD1AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{352AB1D2-BED3-42C7-A0B2-2437EB7BE9C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352AB1D2-BED3-42C7-A0B2-2437EB7BE9C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352AB1D2-BED3-42C7-A0B2-2437EB7BE9C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352AB1D2-BED3-42C7-A0B2-2437EB7BE9C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C21EB1F3-6254-4B5C-9455-FCB45269A280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21EB1F3-6254-4B5C-9455-FCB45269A280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21EB1F3-6254-4B5C-9455-FCB45269A280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21EB1F3-6254-4B5C-9455-FCB45269A280}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C42B8B4-8B8C-443D-B6E5-4BA0C2FD7282}
+	EndGlobalSection
+EndGlobal
